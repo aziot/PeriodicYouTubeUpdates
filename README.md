@@ -3,7 +3,7 @@ Be notified for videos uploaded to YouTube relevant to selected terms.
 
 # Mechanics
 This is a script written in GoogleScript, controlled by a Google Spreadsheet, which executes daily and queries the YouTube Api for specific terms.
-The results are email to a specified email account.
+The results are emailed to a specified email account.
 
 # Spreadsheet Specification
 Column A is dedicated to the terms for which you are querying YouTube.
